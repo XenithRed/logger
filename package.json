@@ -36,6 +36,6 @@
     "typescript": "5.9.3"
   },
   "dependencies": {
-    "@imjxsx/colors": "1.0.4"
+    "@imjxsx/colors": "github:XenithRed/colors"
   }
 }
